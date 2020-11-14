@@ -2,11 +2,11 @@
 
 ## 基本情報
 
-| key      | value                        |
-| -------- | ---------------------------- |
-| 氏名     | 萩原孝大（はぎはらこうだい） |
-| 生年月日 | 1999 年 1 月 10 日           |
-| GitHub   | https://github.com/EringiV3  |
+| key      | value                                                      |
+| -------- | ---------------------------------------------------------- |
+| 氏名     | 萩原孝大（はぎはらこうだい）                               |
+| 生年月日 | 1999 年 1 月 10 日                                         |
+| GitHub   | [https://github.com/EringiV3](https://github.com/EringiV3) |
 
 ---
 
@@ -63,12 +63,10 @@
 ## 業務外活動
 
 - 自作技術ブログでのアウトプット
-  - https://dev.eringiv3.com
+  - [https://dev.eringiv3.com](https://dev.eringiv3.com)
 - 自作ツールの公開
-  - node-ogp-creator  
-    https://www.npmjs.com/package/node-ogp-creator
-  - backlog-jira-diff  
-    https://github.com/EringiV3/backlog-jira-diff
+  - [node-ogp-creator](https://www.npmjs.com/package/node-ogp-creator)
+  - [backlog-jira-diff](https://github.com/EringiV3/backlog-jira-diff)
 
 ---
 
